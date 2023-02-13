@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can reach me here :)
-- I love cats and i usually make emoji from it
+- I love cats and i usually make emoji from them.
 
 <!---
 KisBastya/KisBastya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
